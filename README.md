@@ -1,6 +1,7 @@
 # Streamlit Budget Tracker
 
 Streamlit, Plot.ly, Deta base
+Check the deployment at : https://budget-tracker-6oiw7jwxv6.streamlit.app/
 
 It is a streamlit based budget tracker, which can store your data for a particular month and show it in Graph format
 
